@@ -1,0 +1,27 @@
+//--Balloons2s.txt
+
+validrect.bottom,318
+
+
+arrow1.y,301
+
+
+
+
+sstpmarker.y,302
+
+//Adjusting placement...
+
+sstpmessage.y,315
+
+//Now the messages should take the big balloon into account.
+
+
+number.xr,230
+number.y,325
+
+//And again, much like the other elements, the y value has been changed here to reflect the longer box.
+
+//And that's it! And since I only moved the tails around on my balloons and didn't flip them horizontally or anything, these values will be the same for the other large balloon. In that case, all I have to do is copy this text file and rename it balloons3.txt and I'll be done! 
+//Even better, since the side character's balloons ALSO match in terms of size and dimensions with the main characters, only with a different color, then I can ALSO use this same file for them! You can see the benefits of being consistent.
+//However, if your two characters have separate balloons, like Hunter and Smoker do, you'll have to make sure each .txt file suits each balloon. But as you can see here, it's really only a matter of adjusting where the arrows and such are and the text area. Not too much, all things considered!
